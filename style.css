@@ -1,0 +1,60 @@
+* {margin: 0; padding: 0}
+.ff{
+    height: 60px;
+}
+
+.img{
+width: 10%;
+float: left;
+}
+
+.ite{
+text-align: right;
+}
+
+.item{
+    display: inline-block;
+    padding: 10px;
+    font-size: 30px;
+    margin: 73px;
+    font-family: 'Kaushan Script', cursive;
+}
+.imgg {
+margin-left: 450px;
+margin-right: 470px;
+margin-top: 400px;
+}
+.block{
+color: white;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+}
+.text1{
+    display: block;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+.logo1 {
+    margin-right: 550px;
+    margin-left: 350px;
+    padding: 100px;
+}
+#black {
+    background-color: black;
+    margin-top: 50px;
+    height: 300px;
+    text-align: center;
+    
+}
+.black-text {
+    color: white;
+    font-size: 100px;
+    padding-top: 80px;
+}
+.link {
+    text-decoration: underline;
+    color: red;
+}
